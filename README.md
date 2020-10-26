@@ -1,3 +1,3 @@
 # paradaEcon
 Website for tutoring.
-- added ravipol2542 
+-นายรวิพล เเจ่มกระจ่าง เเฟนอั่งเปาครับ
